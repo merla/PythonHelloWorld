@@ -10,5 +10,5 @@ def lambda_handler(event, context):
     
    
     
-    return "Prathyusha from lambda"  # Echo back the first key value
+    return "Mediator from lambda"  # Echo back the first key value
     #raise Exception('Something went wrong')
