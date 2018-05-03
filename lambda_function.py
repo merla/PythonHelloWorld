@@ -10,5 +10,5 @@ def lambda_handler(event, context):
     
    
     
-    return "What to do from lambda"  # Echo back the first key value
+    return "Got it from lambda"  # Echo back the first key value
     #raise Exception('Something went wrong')
